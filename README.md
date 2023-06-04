@@ -1,4 +1,8 @@
-### Hi there 👋
+### Salutations! 👋
+
+I am a student starting Mathematics and Computer Science at university next year.
+
+My main language of choice is C although I also like using Python, JS and PHP.
 
 <!--
 **LaplacianKY/LaplacianKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
